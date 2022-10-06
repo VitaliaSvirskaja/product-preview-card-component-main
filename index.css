@@ -1,0 +1,30 @@
+body {
+  background-color: #f2eae2;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+img {
+  height: 28rem;
+}
+.main-container {
+  display: flex;
+  margin: auto;
+  height: 28rem;
+  width: 37.5rem;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  background-color: white;
+}
+
+.price-container {
+  display: flex;
+}
